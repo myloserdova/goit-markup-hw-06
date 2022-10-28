@@ -503,8 +503,8 @@ body {
   letter-spacing: 0.06em;
   color: var(--white);
 }
-.subscription-icon{
-  fill:var(--white);
+.subscription-icon {
+  fill: var(--white);
 }
 
 /* portfolio */
