@@ -508,7 +508,7 @@ body {
   fill: var(--white);
 }
 .subscription-button:focus,
-.subscription-button:hover{
+.subscription-button:hover {
   background-color: var(--accent-color-hover);
 }
 
